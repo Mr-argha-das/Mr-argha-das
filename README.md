@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Mr-argha-das](https://github.com/Mr-argha-das)
 
-- 💬 Ask me about **Flutter, Node js**
+- 💬 Ask me about **Flutter, Node js, FastApi, C/C++**
 
 - 📫 How to reach me **hdark6336@gmail.com**
 
